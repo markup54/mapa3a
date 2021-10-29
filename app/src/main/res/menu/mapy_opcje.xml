@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/normalna"
+    android:title="mapa normalna"
+    app:showAsAction="never"/>
+    <item android:id="@+id/hybrydowa"
+        android:title="mapa hubrydowa"
+        app:showAsAction="never"/>
+    <item android:id="@+id/satelitarna"
+        android:title="mapa satelitarna"
+        app:showAsAction="never"/>
+    <item android:id="@+id/terenowa"
+        android:title="mapa terenowa"
+        app:showAsAction="never"/>
+</menu>
